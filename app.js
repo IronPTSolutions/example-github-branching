@@ -1,3 +1,5 @@
-console.log("Julio no mola nada!!");
+console.log("appppp");
 
-console.log("Angel mola mazo!!");
+function sum(a, b) {
+  return a + b;
+}
